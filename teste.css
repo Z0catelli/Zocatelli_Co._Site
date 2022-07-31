@@ -1,0 +1,143 @@
+
+body{
+    font-family: 'Arial Light', Sans-serif;   
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
+
+ /* Formatação do ID  "cabeçalho" */
+ #cabeçalho{
+    color:#ffffff;
+    background-color: #fc2e2e;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-variant: small-caps;
+    letter-spacing: 3px;
+    font-weight: lighter;
+    margin-top: 0px;
+  }
+
+/* Formatação da classe "menu" */
+.menu{
+    font-size: 20px;
+    font-style: normal;
+    font-variant: small-caps;
+    background-color:#ffffff;    
+    display: inline-block;
+    list-style: none;
+    padding: 2px 10px;
+    }
+
+/* Formatação dos links do menu */
+nav a{
+    color: #a1a1a1;
+    text-decoration: none;
+}
+
+/* Formatação do título h1 "Zocatelli Co." */
+h1{
+    font-size: 60px;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 4px 4px 4px #880606;
+    letter-spacing: 15px;
+    color: #ffffff;
+    background-color: #e00707;
+    padding-left: 25px; /* padding faz uma borda somento nos elementos internos e mantem o background por ex*/
+    padding-right: 25px;
+    padding-top: 160px;
+    padding-bottom: 160px; 
+    margin-top:0px;
+  }  
+
+  /* Formatação do titulo h2 "Loja" */
+  h2{
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    color: #fc2e2e;
+    width: 100px;
+    margin: auto;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+/* Formatação do conteudo principal da página */
+  main{
+    width: 70%;
+    margin: auto;
+  } 
+
+/* Formatação das imagens */
+img {
+    width: 300px;
+    margin: 15px; 
+}
+
+/* Formatação da classe "descrição" */
+.Descrição{
+color:#646464;
+font-size: 18px;
+font-style: normal;
+font-variant: normal;
+text-align: center;
+}
+
+/*Formatação da classe "produtos"*/
+.Produtos{
+display: inline-block;
+}
+ 
+.botao{
+    text-align: center;
+    color: #ffffff;
+    background-color: #fc2e2e;
+    padding:10px 70px;
+    text-decoration: none;
+    margin: 20px;   
+    justify-content: center;
+}
+
+.BomSaber{
+ width: 100%;
+}
+
+#contato{
+    width: 100%;
+}
+
+
+/*
+#contato{
+    padding: 30px;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+} */
+
+/*Formatação do rodapé*/
+
+footer{
+font-size: 15px;
+text-align: center;
+color: #a1a1a1;
+background-color: #e7e7e7;
+padding: 2px;
+margin-bottom: 0;
+}
+
+/* Formatação da classe "link" 
+.link{
+color: #ffffff;
+background-color: #fc2e2e;
+padding: 10px;
+text-decoration: none;
+width: 1000px;
+margin:auto;
+}*/
