@@ -1,3 +1,3 @@
 # Zocatelli_Co._Site
-Desenvolvimento do site da minha loja com HTML e CSS.
+Projeto de desenvolvimento Front-End de um site com HTML e CSS.
 
