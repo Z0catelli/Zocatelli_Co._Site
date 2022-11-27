@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;600;900&display=swap');
+
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size: 100%;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(71.47deg, #B82424 21.99%, #E63838 82.48%, #EE5757 100.46%);
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2px;
+}
+
+.cabecalho-logo{
+    height: 72px;
+}
+
+.cabecalho-menu{
+    display: flex;
+    gap:45px;
+}
+
+.cabecalho-menu-item{
+    font-family: Montserrat;
+    color: #fff4f4;
+}
+
+.cabecalho-menu-item:hover{
+    color: #f5b8b8;
+}
+
+.conteudo{
+    border-top: 0.07px solid #f5b8b8;
+    margin-bottom: 70px;
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.main-div{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap:32px;
+    background-color: #fff4f4;
+    border-radius: 20px;
+}
+
+.titulo{
+    font-family: Montserrat;
+    color:#be2e2e;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.subtitulo{
+    font-family: Montserrat;
+    color:#fff4f4;
+    font-weight: 200;
+    font-size:20px;
+}
+
+/*.conteudo-principal-botao{
+    background-color: #e44242; 
+    width: 180px;
+    height: 60px;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    font-family: Montserrat;
+    font-size: 20px;
+    color: #fff4f4;
+    font-weight: 600;
+    border-radius: 20px;
+    border: none;
+    margin: auto;
+}
+
+.conteudo-principal-botao:hover{
+    background-color:#ffd2d2;
+    color: #791b1b;
+}*/
+
+.botao-comprar{
+    background-color: #e44242; 
+    padding: 15px;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    font-family: Montserrat;
+    font-size: 20px;
+    color: #fff4f4;
+    font-weight: 600;
+    border-radius: 20px;
+    border: none;
+    margin: auto;
+}
+
+.botao-comprar:hover{
+    background-color:#e98181;
+    color: #ffffff;
+}
+
+
+.conteudo-secundario{
+    display: flex;
+    flex-direction:row;
+    gap:30px;
+    margin-top: 48px;
+    align-items: center;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+ /*.conteudo-secundario-titulo{ 
+    border-top: 0.07px solid #f5b8b8;
+    padding-top: 48px;
+    font-family: Montserrat;
+    color: #fff4f4;
+    font-weight: 600;
+} */
+
+.conteudo-secundario-pgf{
+    font-family: Montserrat;
+    font-size: 23px;
+    color: #2b2020;
+    font-weight: 400;
+    border-radius: 20px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    justify-content: center;
+}
+
+.rodape{
+    border-top: 0.07px solid #f5b8b8;
+    padding: 32px;
+}
+
+.rodape-logo{
+    display:block;
+    margin:0 auto;
+}
+
+
