@@ -13,6 +13,12 @@
 </div>
 
 <div align="center">
+<h2> Landing Page Dark Mode</h2>
+<img src="https://user-images.githubusercontent.com/101437257/205472876-b8c81cbf-11c3-4ba8-81f9-96f02ce12e72.png" width="1000px">
+</div>
+
+
+<div align="center">
 <h2> Store </h2>
 <p> </p>
 <img src= "https://user-images.githubusercontent.com/101437257/204114763-29e3001c-b36d-4df0-a90e-d55ab1f3038c.png" >
@@ -21,6 +27,11 @@
 <div align="center">
 <h2>Login</h2>
 <img src="https://user-images.githubusercontent.com/101437257/204169445-f8678339-25bf-4c61-8d2e-1ba53aacce0c.png">
+</div>
+
+<div align="center">
+<h2>Login Darkmode</h2>
+<img src="https://user-images.githubusercontent.com/101437257/205472946-e5ac52b5-86a7-4114-9692-bc06d9215a10.png">
 </div>
 
 <hr>
